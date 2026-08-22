@@ -34,8 +34,8 @@
 <div class="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20to-zinc-900">
   <div class="flex flex-col items-start max-w-screen-sm md:flex-row sm:mx-auto text-white">
     <div class=" mr-8">
-      <div class="flex items-center justify-center w-16 h-16 mb-4 ">
-          <img src="https://tmssl.akamaized.net//images/wappen/head/12636.png?lm=1464013094" alt="Logo FC Landen">
+      <div class="flex items-center justify-center w-20 mb-4 ">
+          <img src="/assets/images/logo.png" alt="Logo FC Landen">
       </div>
       Geschreven door {{author() ?? 'FC Landen'}}
     </div>
@@ -56,4 +56,12 @@
   </div>
 </div>
 </div>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 220"><path fill="#000" fill-opacity="1" d="M0,224L120,192C240,160,480,96,720,69.3C960,43,1200,53,1320,58.7L1440,64L1440,0L1320,0C1200,0,960,0,720,0C480,0,240,0,120,0L0,0Z"></path></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 220">
+  <defs>
+    <linearGradient id="waveGradient" x1="0%" y1="10%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#000"/>
+      <stop offset="100%" stop-color="#7f1d1d"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#waveGradient)" d="M0,224L120,192C240,160,480,96,720,69.3C960,43,1200,53,1320,58.7L1440,64L1440,0L1320,0C1200,0,960,0,720,0C480,0,240,0,120,0L0,0Z"></path>
+</svg>
