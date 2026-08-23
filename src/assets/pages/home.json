@@ -65,8 +65,18 @@
       "title": "Onze evenementen",
       "description": "Onze aankomende evenementen",
       "articlePaths": [
-        "assets/blog/events/mosseldag.md",
-        "assets/blog/events/open-training-2026.md"
+        "assets/blog/events/zomercup-2026.md",
+        "assets/blog/events/velm-jeugdvoorstelling-2026.md",
+        "assets/blog/events/mosseldagen-2026.md",
+        "assets/blog/events/koers-op-rollen-2026.md",
+        "assets/blog/events/sinterklaasfeest-2026.md",
+        "assets/blog/events/wintercup-2026.md",
+        "assets/blog/events/eet-event-2027.md",
+        "assets/blog/events/fuif-90s-2027.md",
+        "assets/blog/events/paaskamp-2027.md",
+        "assets/blog/events/afhaalpasta-2027.md",
+        "assets/blog/events/slotfestijn-2027.md",
+        "assets/blog/events/kunstgrascup-2027.md"
       ]
     },
     "newsletter": {

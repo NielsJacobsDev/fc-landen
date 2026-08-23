@@ -62,6 +62,7 @@ export class BlogPostComponent implements OnInit {
   ngOnInit(): void {
     // Load sponsors data
     this.loadSponsorsData();
+    this.loadMermaid();
 
     const category = this.route.snapshot.paramMap.get('category');
     const postName = this.route.snapshot.paramMap.get('postName');
@@ -100,6 +101,12 @@ export class BlogPostComponent implements OnInit {
   onBlockUpdate($event: string) {
     const strippedCt = stripMetadata($event);
     this.newContent.set(strippedCt);
+  }
+
+  loadMermaid() {
+    import('mermaid').then(({ default: mermaid }) => {
+      (window as any).mermaid = mermaid;
+    });
   }
 
   loadSponsorsData() {

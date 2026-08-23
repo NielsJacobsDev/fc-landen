@@ -14,21 +14,35 @@ tags:
 
 # Bestuur
 
-| Voorzitter | Bart Freson | 0476 44 78 47 | bartf2306@gmail.com |
+| Voorzitter | Johannes Bex |  |  |
 
-| Secretaris - G.C. |  |  |  |
+| Secretaris - G.C. | Sebastien Dewaele |  |  |
 
 | Penningmeester | Ludo Gielen |  |  |
 
-| Lid | Frank Mathijs |  |  |
+| Bestuurslid | Jo Lammens |  |  |
 
-| Lid | Branco Lacroix |  |  |
+| Bestuurslid | Mathijs Frank |  |  |
 
-| Lid | Marleen Aerts |  |  |
+| Bestuurslid | Marleen Aerts |  |  |
+
+| Bestuurslid | Ward Hendrix |  |  |
+
+| Bestuurslid | Koen Pansaers |  |  |
+
+| Bestuurslid | Rob Evers |  |  |
 
 # Sportief
 
-| TVJO | Rob EVERS | 0495 76 17 21 | rob.evers@telenet.be |
+| Sportief Manager | Dirk Fouriers |  |  |
+
+# P1
+
+| Trainer (T1) | Alain Peetermans |  |  |
+
+| Trainer (T2) | Yf Brems |  |  |
+
+| Keeperstrainer | Nico Hoebregs |  |  |
 
 # Kledij
 

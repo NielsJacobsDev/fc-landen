@@ -27,7 +27,7 @@
     <img src="assets/images/home6.jpg" alt="" class="h-auto w-36 rounded-2xl sm:w-72 lg:w-80" />
   </div>
 </header>
-<app-article-latest [articlePaths]="homePageData().sections.events.articlePaths" [title]="homePageData().sections.events.title" [description]="homePageData().sections.events.description"></app-article-latest>
+<app-events-list [articlePaths]="homePageData().sections.events.articlePaths"></app-events-list>
 <section class="py-16 bg-white">
   <div class="container mx-auto px-4">
     <div class="text-center mb-12">
@@ -65,6 +65,27 @@
           Het bestuur van Fc Landen
         </p>
       </div>
+    </div>
+  </div>
+</section>
+
+<section class="py-16 bg-gray-50">
+  <div class="container mx-auto px-4">
+    <div class="text-center mb-10">
+      <h2 class="text-2xl font-bold mb-2">Volg ons op Facebook</h2>
+      <p class="text-sm text-gray-600">Blijf op de hoogte van het laatste nieuws via onze Facebook pagina.</p>
+    </div>
+    <div class="flex justify-center">
+      <iframe
+        src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fp%2FFC-Landen-100063724024965%2F&tabs=timeline&width=500&height=600&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true"
+        width="500"
+        height="600"
+        style="border:none;overflow:hidden"
+        scrolling="no"
+        frameborder="0"
+        allowfullscreen="true"
+        allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share">
+      </iframe>
     </div>
   </div>
 </section>

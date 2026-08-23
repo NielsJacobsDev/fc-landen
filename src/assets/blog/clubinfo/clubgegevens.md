@@ -19,6 +19,8 @@ excerpt: Hieronder vind je de volledige gegevens van onze club. Handig voor bijv
 
 * IBAN: BE42 1030 1326 8254
 
+* IBAN: BE11 0689 5978 8048
+
 * BTW: BE 0411.636.722
 
 * Clubkleuren:&nbsp;zwart / rood / zwart

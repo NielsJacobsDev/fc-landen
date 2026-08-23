@@ -102,7 +102,7 @@ Om alles zo vlot mogelijk te laten verlopen dient bij elke ongevalaangifte een k
 
 Indien u groen licht krijgt om de trainingen te hervatten, laat dan het ontvangstbewijs zo snel mogelijk invullen door de behandelende arts en
 
-bezorg het ingevulde document opnieuw aan de G.C. Nico De Rick.
+bezorg het ingevulde document opnieuw aan de G.C. (zie [contact pagina](/clubinfo/contact)).
 
 Voeg ook eventuele facturen van onkosten bij dit document. Het origineel betalingsoverzicht van het ziekenhuis en de originele
 
@@ -158,9 +158,9 @@ Om een spoedige terugbetaling van de onkosten door de verzekeringsmaatschappij t
 
 * De onkostennota’s aan te bieden aan uw mutualiteit en het attest “ tussenkomst “ te laten invullen (enkel op naam van speler)
 
-* Tenslotte de hierna vermelde stukken over te maken aan onze Gerechtigd Correspondent via mail nicoderick80@gmail.com of door afgifte onder
+* Tenslotte de hierna vermelde stukken over te maken aan onze Gerechtigd Correspondent via mail secretariaat@fclanden.be of door afgifte onder
 
-gesloten omslag in de kantine t.a.v. Nico De Rick
+gesloten omslag in de kantine t.a.v. GC
 
 * Als u de afrekening van de ziekenkas bekomt, neem dan hiervan een copy. Bezorg de originele papieren van de ziekenkas en het ingevulde
 

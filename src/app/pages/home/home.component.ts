@@ -6,6 +6,7 @@ import {HttpClient} from '@angular/common/http';
 import {SaveToGithubService} from '../../services/saveToGithub';
 import {HomePageData} from '../../types/HomePageData.types';
 import { ArticleLatestComponent } from '../../components/article-latest/article-latest.component';
+import { EventsListComponent } from '../../components/events-list/events-list.component';
 import {FeaturesComponent} from '../../components/features/features.component';
 import {LogosComponent} from '../../components/logos/logos.component';
 import {SponsorsService, SponsorsData} from '../../services/sponsors.service';
@@ -16,7 +17,7 @@ import {DeployNotificationService} from '../../services/deploy-notification.serv
   standalone: true,
   templateUrl: './home.component.html',
   styleUrl: './home.component.scss',
-  imports: [SidebarEditorComponent, EditorDirective, ArticleLatestComponent, FeaturesComponent, LogosComponent],
+  imports: [SidebarEditorComponent, EditorDirective, ArticleLatestComponent, FeaturesComponent, LogosComponent, EventsListComponent],
   changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export class HomeComponent implements OnInit {
