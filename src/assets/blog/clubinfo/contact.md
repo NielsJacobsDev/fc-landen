@@ -18,7 +18,7 @@ tags:
 
 | Secretaris - G.C. | Sebastien Dewaele |  |  |
 
-| Penningmeester | Ludo Gielen |  |  |
+| Penningmeester | Johannes Bex |  |  |
 
 | Bestuurslid | Jo Lammens |  |  |
 
@@ -34,7 +34,7 @@ tags:
 
 # Sportief
 
-| Sportief Manager | Dirk Fouriers |  |  |
+| Sportief Manager | Dirk Foriers |  |  |
 
 # P1
 
