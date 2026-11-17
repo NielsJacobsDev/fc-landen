@@ -14,23 +14,23 @@ tags:
 
 # Bestuur
 
-| Voorzitter | Johannes Bex |  |  |
+| Voorzitter | Johannes Bex |  | bestuur@fclanden.be |
 
-| Secretaris - G.C. | Sebastien Dewaele |  |  |
+| Secretaris - G.C. | Sebastien Dewaele |  | secretariaat@fclanden.be |
 
-| Penningmeester | Johannes Bex |  |  |
+| Penningmeester | Johannes Bex |  | bestuur@fclanden.be |
 
-| Bestuurslid | Jo Lammens |  |  |
+| Bestuurslid | Jo Lammens |  | bestuur@fclanden.be |
 
-| Bestuurslid | Mathijs Frank |  |  |
+| Bestuurslid | Mathijs Frank |  | bestuur@fclanden.be |
 
-| Bestuurslid | Marleen Aerts |  |  |
+| Bestuurslid | Marleen Aerts |  | bestuur@fclanden.be |
 
-| Bestuurslid | Ward Hendrix |  |  |
+| Bestuurslid | Ward Hendrix |  | bestuur@fclanden.be |
 
-| Bestuurslid | Koen Pansaers |  |  |
+| Bestuurslid | Koen Pansaers |  | bestuur@fclanden.be |
 
-| Bestuurslid | Rob Evers |  |  |
+| Bestuurslid | Rob Evers |  | tvjo@fclanden.be |
 
 # Sportief
 
@@ -52,7 +52,7 @@ tags:
 
 # Wedstrijdplanning &amp; PSD
 
-| Kenneth Vanmarsnille | 0473 56 64 16 | kenneth.vanmarsnille@hotmail.com |
+| Kenneth Vanmarsnille | 0473 56 64 16 | avjo@fclanden.be |
 
 # Tornooien
 
@@ -60,6 +60,6 @@ tags:
 
 # Jeugdscheidsrechters
 
-| Referee Ambassador | Guy BARTHOLOMÉ | 0485 74 36 44 | guy.bartholome@hotmail.com |
+| Referee Ambassador | Guy BARTHOLOMÉ | 0485 74 36 44 | avjo@fclanden.be |
 
 ---
